@@ -1,0 +1,4 @@
+pyrogram==2.2
+yt-dlp==2022.01.16
+instaloader==4.9.0
+ffmpeg-python==0.2.0
